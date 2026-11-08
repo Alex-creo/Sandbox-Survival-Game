@@ -1,0 +1,17 @@
+Known pipe types:
+  eglGraphicsPipe
+(all display modules loaded.)
+:display:egldisplay(warning): Couldn't initialize the default EGL display: EGL_NOT_INITIALIZED
+:device(error): Error adding inotify watch on /dev/input: No such file or directory
+:device(error): Error opening directory /dev/input: No such file or directory
+test_constraints_blueprint_roundtrip_and_invalid_rollback (test_game.GameTests.test_constraints_blueprint_roundtrip_and_invalid_rollback) ... ok
+test_ground_gravity_jump_and_walk (test_game.GameTests.test_ground_gravity_jump_and_walk) ... ok
+test_gui_tabs_preview_settings_and_weather (test_game.GameTests.test_gui_tabs_preview_settings_and_weather) ... ok
+test_overlap_rejected (test_game.GameTests.test_overlap_rejected) ... ok
+test_place_select_move_rotate_freeze_delete (test_game.GameTests.test_place_select_move_rotate_freeze_delete) ... ok
+test_vehicle_acceleration_steering_braking_reverse_enter_exit (test_game.GameTests.test_vehicle_acceleration_steering_braking_reverse_enter_exit) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 49.092s
+
+OK
